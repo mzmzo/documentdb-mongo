@@ -1,0 +1,6 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb://test-mongo:1jlWUgdmm1nFYaznrdzJVsNpNSCSApmiNdITQrld8F3MYM9Itui0VePMwpeLyyyNUKkSobzI4pwKufXNtNNUMg==@test-mongo.documents.azure.cn:10250/boot?ssl=true
+#mongodb://root:123456@localhost:27017/boot 
+#mongodb://test-mongo:1jlWUgdmm1nFYaznrdzJVsNpNSCSApmiNdITQrld8F3MYM9Itui0VePMwpeLyyyNUKkSobzI4pwKufXNtNNUMg==@test-mongo.documents.azure.cn:10250/boot?ssl=true
